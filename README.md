@@ -16,12 +16,11 @@ healthcare and industrial environments. I'm specializing in the use of AI for my
 - 🎓 I'm currently studying in **Facultad De Minas, Universidad Nacional de Colombia**
 - 🌱 I'm currently learning **Agentic AI, DevOPs, ML Arquitectures**
 - 👯 I'm looking to collaborate on **Frelancer, Opensource Projects**
-- 📫 How to reach me **ferchogmv15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ferchogmv15" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edgar-fernando-vega-morales-741767192" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edgar-fernando-vega-morales-741767192" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://kaggle.com/edgarfernandovega" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://hackerrank.com/ferchogmv15" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
@@ -62,7 +61,6 @@ healthcare and industrial environments. I'm specializing in the use of AI for my
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40"/></a>
@@ -84,6 +82,4 @@ healthcare and industrial environments. I'm specializing in the use of AI for my
 </div>
 
 ###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ferchogmv15&show_icons=true&locale=en" alt="ferchogmv15" /></p>
 
